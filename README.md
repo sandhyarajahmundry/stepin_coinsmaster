@@ -4,3 +4,4 @@ It is one of the gaming application. Here coins are randomly generated inside th
 [![cppcheck-action](https://github.com/sandhyarajahmundry/stepin_coinsmaster/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sandhyarajahmundry/stepin_coinsmaster/actions/workflows/cppcheck.yml)
 [![quality check](https://www.code-inspector.com/project/27736/score/svg)
 [![code grade](https://www.code-inspector.com/project/27736/status/svg)
+[![Git Inspector](https://github.com/sandhyarajahmundry/stepin_coinsmaster/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/sandhyarajahmundry/stepin_coinsmaster/actions/workflows/gitinspector.yml)
